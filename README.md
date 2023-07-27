@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Monish Soundar Raj</h1>
-<h3 align="center">A web developer and a junior student @ UNC Charlotte.</h3>
+<h3 align="center">A Web Developer and a Junior Student @ UNC Charlotte.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=0e75b6&style=flat" alt="monishsoundarraj" /> </p>
 
-- 🔭 My work - Project 1. [A full stack dynamic online store for shoes.](https://pacific-garden-66100.herokuapp.com/)
+- 🌱 Project 1 - Scriptify AI (A AI web application to generate Python scripts) [code]()
+  
+- 🔭 Project 2 - [A full stack dynamic online store for shoes.](https://pacific-garden-66100.herokuapp.com/)
 
-- 🌱 I’m currently learning **Next.js and Nginx**
-
-- 👯 My work - Project 2. [A low budget YouTube clone.](https://youtube-hooks-iota-inky.vercel.app/)
+- 👯 Project 3 - [A low budget YouTube clone.](https://youtube-hooks-iota-inky.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://www.monishsoundarraj.com/](https://www.monishsoundarraj.com/)
 

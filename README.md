@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=0e75b6&style=flat" alt="monishsoundarraj" /> </p>
 
-- 🌱 Project 1 - Scriptify AI (A AI web application to generate Python scripts) [code]()
+- 🌱 Project 1 - Scriptify AI (A AI web application to generate Python scripts) [code](https://github.com/MonishSoundarRaj/scriptify-ai-web-app)
   
 - 🔭 Project 2 - [A full stack dynamic online store for shoes.](https://pacific-garden-66100.herokuapp.com/)
 

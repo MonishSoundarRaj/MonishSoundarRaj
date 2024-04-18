@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Monish Soundar Raj</h1>
-<h3 align="center">A Web Developer and a Junior Student @ UNC Charlotte.</h3>
+<h3 align="center">Research Assitant [High-Performance Computing Lab] and a Junior Student @ UNC Charlotte.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=0e75b6&style=flat" alt="monishsoundarraj" /> </p>
 
 - 🧑‍💼 Work - Research Assistant at High-Performance Computing Lab - UNCC
 
-- 🌱 Project 1 - Scriptify AI (A AI web application to generate Python scripts) [code](https://github.com/MonishSoundarRaj/scriptify-ai-web-app)
+** Previous Projects **
+
+- 🌱 Project 1 - Lumos - Job Trace Visualization application [Web Application Visit](https://lumos-job-traces.streamlit.app/)
   
-- 🔭 Project 2 - [A full stack dynamic online store for shoes.](https://pacific-garden-66100.herokuapp.com/)
+- 🔭 Project 2 - ShoeShop - A full stack dynamic online store for shoes.[Visit](https://pacific-garden-66100.herokuapp.com/)
 
-- 👯 Project 3 - [A low budget YouTube clone.](https://youtube-hooks-iota-inky.vercel.app/)
+- 👯 Project 3 - Youtube Clone [Visit](https://youtube-hooks-iota-inky.vercel.app/)
+  
+- 🎃 Project 4 - Goman Project [Visit](https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome)
 
-- 👨‍💻 All of my projects are available at [https://www.monishsoundarraj.com/](https://www.monishsoundarraj.com/)
+- 👨‍💻 All of my projects are available at [https://monishsoundarraj.github.io/personal-portfolio/](https://monishsoundarraj.com)
 
 - 📫 How to reach me **msoundar@uncc.edu**
 

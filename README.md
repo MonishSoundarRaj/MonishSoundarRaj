@@ -57,22 +57,10 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monishsoundarraj&show_icons=true&locale=en&layout=compact" alt="monishsoundarraj" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&" alt="monishsoundarraj" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=monishsoundarraj&bg_color=ffffff&color=000000&line=00e676&point=000000&area=true&hide_border=true" alt="monishsoundarraj" />
-</p>
-
----
-
-<h2 align="left">📈 Contributions</h2>
-<p align="center">
-  <img src="/mnt/data/image.png" alt="Contributions in the last year" />
 </p>

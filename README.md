@@ -11,20 +11,51 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://lumos-job-traces.streamlit.app/">
-    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=Lumos" alt="Lumos" width="300" height="150"/>
-  </a>
-  <a href="https://pacific-garden-66100.herokuapp.com/">
-    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=ShoeShop" alt="ShoeShop" width="300" height="150"/>
-  </a>
-  <a href="https://youtube-hooks-iota-inky.vercel.app/">
-    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=YouTube+Clone" alt="YouTube Clone" width="300" height="150"/>
-  </a>
-  <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome">
-    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=Goman+Memory+Project" alt="Goman Memory Project" width="300" height="150"/>
-  </a>
+<div align="center" style="margin-top: 20px;">
+  <table style="width: 100%; border-spacing: 20px;">
+    <tr>
+      <td width="50%" style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
+        <h3 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Lumos</h3>
+        <p align="center">
+          <a href="https://lumos-job-traces.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+        <p align="center" style="color: #555; font-family: Arial, sans-serif;">Job Trace Visualization Application</p>
+      </td>
+      <td width="50%" style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
+        <h3 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">ShoeShop</h3>
+        <p align="center">
+          <a href="https://pacific-garden-66100.herokuapp.com/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=heroku&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+        <p align="center" style="color: #555; font-family: Arial, sans-serif;">Full Stack Dynamic Online Store</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
+        <h3 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">YouTube Clone</h3>
+        <p align="center">
+          <a href="https://youtube-hooks-iota-inky.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+        <p align="center" style="color: #555; font-family: Arial, sans-serif;">React-based YouTube Clone</p>
+      </td>
+      <td width="50%" style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px;">
+        <h3 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Goman Memory Project</h3>
+        <p align="center">
+          <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome" target="_blank">
+            <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="Project"/>
+          </a>
+        </p>
+        <p align="center" style="color: #555; font-family: Arial, sans-serif;">Digital Exhibit</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## 💻 Tech Stack
 

@@ -12,12 +12,57 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![Lumos](https://img.shields.io/badge/Lumos-Job%20Trace%20Visualization-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://lumos-job-traces.streamlit.app/)
-[![ShoeShop](https://img.shields.io/badge/ShoeShop-Full%20Stack%20E--Commerce-4CAF50?style=for-the-badge&logo=shopify&logoColor=white)](https://pacific-garden-66100.herokuapp.com/)
-[![YouTube Clone](https://img.shields.io/badge/YouTube%20Clone-React%20Application-4CAF50?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube-hooks-iota-inky.vercel.app/)
-[![Goman Memory Project](https://img.shields.io/badge/Goman%20Memory%20Project-Digital%20Exhibit-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)](https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome)
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Lumos</h3>
+      <p align="center">
+        <a href="https://lumos-job-traces.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white" alt="Demo"/>
+        </a>
+        <a href="https://github.com/yourusername/lumos" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+      <p align="center">Job Trace Visualization application</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ShoeShop</h3>
+      <p align="center">
+        <a href="https://pacific-garden-66100.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=heroku&logoColor=white" alt="Demo"/>
+        </a>
+        <a href="https://github.com/yourusername/shoeshop" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+      <p align="center">Full stack dynamic online store</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">YouTube Clone</h3>
+      <p align="center">
+        <a href="https://youtube-hooks-iota-inky.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+        </a>
+        <a href="https://github.com/yourusername/youtube-clone" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+      <p align="center">React-based YouTube clone</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Goman Memory Project</h3>
+      <p align="center">
+        <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="Project"/>
+        </a>
+      </p>
+      <p align="center">Digital Exhibit</p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 💻 Tech Stack

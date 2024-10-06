@@ -1,8 +1,6 @@
 <div align="center">
 
-# Monish Soundar Raj
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=300&section=header&text=Monish%20Soundar%20Raj&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Research%20Assistant%20|%20HPC%20Lab%20|%20UNC%20Charlotte&descAlignY=51&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Monish+Soundar+Raj;Research+Assistant+%40+HPC+Lab;AI+Lab+Enthusiast;Computer+Science+Student)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=4CAF50&style=for-the-badge)](https://github.com/monishsoundarraj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-soundar-raj-613207218)
@@ -15,7 +13,7 @@
 
 <div align="center">
 
-[![Lumos](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=lumos&theme=radical)](https://lumos-job-traces.streamlit.app/)
+[![Lumos](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=lumos-job-traces&theme=radical)](https://lumos-job-traces.streamlit.app/)
 [![ShoeShop](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=shoeshop&theme=radical)](https://pacific-garden-66100.herokuapp.com/)
 [![YouTube Clone](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=youtube-clone&theme=radical)](https://youtube-hooks-iota-inky.vercel.app/)
 [![Goman Memory Project](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=goman-memory-project&theme=radical)](https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome)
@@ -49,10 +47,6 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" alt="Monish Soundar Raj github stats" /> 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monishsoundarraj&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Monish Soundar Raj github trophies" />
-</div>
-
 ---
 
 <div align="center">
@@ -61,5 +55,3 @@
   ![](https://hit.yhype.me/github/profile?user_id=74038190)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer)

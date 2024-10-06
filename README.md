@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Monish+Soundar+Raj;Research+Assistant+%40+HPC+Lab;AI+Lab+Enthusiast;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Monish+Soundar+Raj;Research+Assistant+%40+HPC+Lab;Research+Assistant+%40+AI+Lab;Computer+Science+Student)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=4CAF50&style=for-the-badge)](https://github.com/monishsoundarraj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-soundar-raj-613207218)
@@ -13,10 +13,10 @@
 
 <div align="center">
 
-[![Lumos](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=lumos-job-traces&theme=radical)](https://lumos-job-traces.streamlit.app/)
-[![ShoeShop](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=shoeshop&theme=radical)](https://pacific-garden-66100.herokuapp.com/)
-[![YouTube Clone](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=youtube-clone&theme=radical)](https://youtube-hooks-iota-inky.vercel.app/)
-[![Goman Memory Project](https://github-readme-stats.vercel.app/api/pin/?username=monishsoundarraj&repo=goman-memory-project&theme=radical)](https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome)
+[![Lumos](https://img.shields.io/badge/Lumos-Job%20Trace%20Visualization-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://lumos-job-traces.streamlit.app/)
+[![ShoeShop](https://img.shields.io/badge/ShoeShop-Full%20Stack%20E--Commerce-4CAF50?style=for-the-badge&logo=shopify&logoColor=white)](https://pacific-garden-66100.herokuapp.com/)
+[![YouTube Clone](https://img.shields.io/badge/YouTube%20Clone-React%20Application-4CAF50?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube-hooks-iota-inky.vercel.app/)
+[![Goman Memory Project](https://img.shields.io/badge/Goman%20Memory%20Project-Digital%20Exhibit-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)](https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome)
 
 </div>
 

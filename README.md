@@ -9,7 +9,7 @@
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Previous Projects
 
 <div align="center" style="margin-top: 20px;">
   <table style="width: 100%; border-spacing: 20px;">

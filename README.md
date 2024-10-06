@@ -21,33 +21,26 @@
 
 <div align="left">
   <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-
     <a href="https://lumos-job-traces.streamlit.app/" style="text-decoration: none; flex: 1;">
       <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
         🌱 <strong style="color: #4CAF50;">Lumos</strong> - Job Trace Visualization application
       </div>
     </a>
-
     <a href="https://pacific-garden-66100.herokuapp.com/" style="text-decoration: none; flex: 1;">
       <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
         🔭 <strong style="color: #4CAF50;">ShoeShop</strong> - Full stack dynamic online store
       </div>
     </a>
-
-
     <a href="https://youtube-hooks-iota-inky.vercel.app/" style="text-decoration: none; flex: 1;">
       <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
         👯 <strong style="color: #4CAF50;">YouTube Clone</strong> - Built with React
       </div>
     </a>
-
-
     <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome" style="text-decoration: none; flex: 1;">
       <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
         🎃 <strong style="color: #4CAF50;">Goman Memory Project</strong> - Digital Exhibit
       </div>
     </a>
-
   </div>
 </div>
 
@@ -136,5 +129,5 @@
 </p>
 
 <p align="center">
-  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="PrivateInvestocat" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="PrivateInvestocat" width="300"/>
 </p>

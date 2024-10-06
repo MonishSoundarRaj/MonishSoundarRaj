@@ -12,57 +12,18 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Lumos</h3>
-      <p align="center">
-        <a href="https://lumos-job-traces.streamlit.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white" alt="Demo"/>
-        </a>
-        <a href="https://github.com/yourusername/lumos" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-      <p align="center">Job Trace Visualization application</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">ShoeShop</h3>
-      <p align="center">
-        <a href="https://pacific-garden-66100.herokuapp.com/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=heroku&logoColor=white" alt="Demo"/>
-        </a>
-        <a href="https://github.com/yourusername/shoeshop" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-      <p align="center">Full stack dynamic online store</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">YouTube Clone</h3>
-      <p align="center">
-        <a href="https://youtube-hooks-iota-inky.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
-        </a>
-        <a href="https://github.com/yourusername/youtube-clone" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2F363D?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-        </a>
-      </p>
-      <p align="center">React-based YouTube clone</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Goman Memory Project</h3>
-      <p align="center">
-        <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="Project"/>
-        </a>
-      </p>
-      <p align="center">Digital Exhibit</p>
-    </td>
-  </tr>
-</table>
+  <a href="https://lumos-job-traces.streamlit.app/">
+    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=Lumos" alt="Lumos" width="300" height="150"/>
+  </a>
+  <a href="https://pacific-garden-66100.herokuapp.com/">
+    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=ShoeShop" alt="ShoeShop" width="300" height="150"/>
+  </a>
+  <a href="https://youtube-hooks-iota-inky.vercel.app/">
+    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=YouTube+Clone" alt="YouTube Clone" width="300" height="150"/>
+  </a>
+  <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome">
+    <img src="https://dummyimage.com/300x150/4CAF50/fff&text=Goman+Memory+Project" alt="Goman Memory Project" width="300" height="150"/>
+  </a>
 </div>
 
 ## 💻 Tech Stack
@@ -76,8 +37,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 </div>
 

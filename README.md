@@ -1,4 +1,4 @@
-
+<!-- Modern intro with clean styling -->
 <h1 align="center" style="font-size: 3em; font-weight: bold; color: #4CAF50;">
   Hi, I'm Monish Soundar Raj 👋
 </h1>
@@ -10,7 +10,6 @@
   <img src="https://assets10.lottiefiles.com/packages/lf20_3rwasyjy.json" alt="line-animation" width="200" height="10" autoplay loop />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=brightgreen&style=flat-square" alt="monishsoundarraj" />
 </p>
@@ -19,28 +18,36 @@
 
 <h2 align="left">🚀 Previous Projects</h2>
 
+
 <div align="left">
   <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-    <a href="https://lumos-job-traces.streamlit.app/" style="text-decoration: none;">
-      <div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; transition: all 0.3s ease; background-color: #f5f5f5;">
-        🌱 <strong>Project 1</strong> - Lumos: Job Trace Visualization application
+
+    <a href="https://lumos-job-traces.streamlit.app/" style="text-decoration: none; flex: 1;">
+      <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
+        🌱 <strong style="color: #4CAF50;">Lumos</strong> - Job Trace Visualization application
       </div>
     </a>
-    <a href="https://pacific-garden-66100.herokuapp.com/" style="text-decoration: none;">
-      <div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; transition: all 0.3s ease; background-color: #f5f5f5;">
-        🔭 <strong>Project 2</strong> - ShoeShop: Full-stack dynamic online store
+
+    <a href="https://pacific-garden-66100.herokuapp.com/" style="text-decoration: none; flex: 1;">
+      <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
+        🔭 <strong style="color: #4CAF50;">ShoeShop</strong> - Full stack dynamic online store
       </div>
     </a>
-    <a href="https://youtube-hooks-iota-inky.vercel.app/" style="text-decoration: none;">
-      <div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; transition: all 0.3s ease; background-color: #f5f5f5;">
-        👯 <strong>Project 3</strong> - YouTube Clone (React)
+
+
+    <a href="https://youtube-hooks-iota-inky.vercel.app/" style="text-decoration: none; flex: 1;">
+      <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
+        👯 <strong style="color: #4CAF50;">YouTube Clone</strong> - Built with React
       </div>
     </a>
-    <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome" style="text-decoration: none;">
-      <div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; transition: all 0.3s ease; background-color: #f5f5f5;">
-        🎃 <strong>Project 4</strong> - Goman Memory Project
+
+
+    <a href="https://exhibits.charlotte.edu/s/gomanmemoryproject/page/welcome" style="text-decoration: none; flex: 1;">
+      <div style="border: 2px solid #4CAF50; padding: 20px; border-radius: 15px; background: #fafafa; transition: transform 0.3s ease;">
+        🎃 <strong style="color: #4CAF50;">Goman Memory Project</strong> - Digital Exhibit
       </div>
     </a>
+
   </div>
 </div>
 
@@ -54,7 +61,8 @@
 
 ---
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🌐 Connect with Me</h2>
+
 <p align="left">
   <a href="https://linkedin.com/in/monish-soundar-raj-613207218" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
@@ -72,7 +80,8 @@
 
 ---
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">⚙️ Languages and Tools</h2>
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/bash.png" alt="bash" width="40" height="40" />
@@ -117,6 +126,7 @@
 
 ---
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monishsoundarraj&show_icons=true&locale=en&layout=compact&theme=radical" alt="monishsoundarraj" />
 </p>
@@ -126,5 +136,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YuGduBZqS8bHi/giphy.gif" alt="modern-footer-animation" width="200" />
+  <img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="PrivateInvestocat" width="300"/>
 </p>

@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_3rwasyjy.json" alt="line-animation" width="200" height="10" autoplay loop />
+  <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="line-animation" width="200" height="10" autoplay loop />
 </p>
 
 <p align="center">

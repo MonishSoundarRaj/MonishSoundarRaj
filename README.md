@@ -9,7 +9,7 @@
 
 </div>
 
-## 🚀 Previous Projects
+## 🚀 Some Previous Projects
 
 <div align="center" style="margin-top: 20px;">
   <table style="width: 100%; border-spacing: 20px;">
@@ -94,5 +94,8 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/monishsoundarraj?label=Follow&style=social)](https://github.com/monishsoundarraj)
   ![](https://hit.yhype.me/github/profile?user_id=74038190)
+  ## 🔥 GitHub Streak Stats
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true)
+
 
 </div>

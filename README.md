@@ -94,8 +94,13 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/monishsoundarraj?label=Follow&style=social)](https://github.com/monishsoundarraj)
   ![](https://hit.yhype.me/github/profile?user_id=74038190)
-  ## 🔥 GitHub Streak Stats
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true)
+## 📈 GitHub Contributions Graph
+[![Monish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=monishsoundarraj&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&area=true&hide_border=true)](https://github.com/monishsoundarraj)
 
+## 🔥 GitHub Streak Stats
+![Monish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50)
+
+## 🏆 GitHub Stats
+![Monish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monishsoundarraj&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9)
 
 </div>

@@ -97,6 +97,4 @@
 
 </div>
 
-<div align="center">
-  ![GitHub Snake](https://github.com/monishsoundarraj/monishsoundarraj/blob/output/github-contribution-grid-snake.svg)
-</div>
+

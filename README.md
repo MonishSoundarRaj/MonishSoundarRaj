@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Monish+Soundar+Raj;Research+Assistant+%40+HPC+Lab;Research+Assistant+%40+AI+Lab;Computer+Science+Student)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=monishsoundarraj&label=Profile%20views&color=4CAF50&style=for-the-badge)](https://github.com/monishsoundarraj)
-![Contributions](https://img.shields.io/badge/dynamic/json?color=4CAF50&label=Contributions&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Amonishsoundarraj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-soundar-raj-613207218)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://monishsoundarraj.github.io/personal-portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msoundar@uncc.edu)
@@ -96,4 +95,8 @@
   [![GitHub followers](https://img.shields.io/github/followers/monishsoundarraj?label=Follow&style=social)](https://github.com/monishsoundarraj)
   ![](https://hit.yhype.me/github/profile?user_id=74038190)
 
+</div>
+
+<div align="center">
+  ![GitHub Snake](https://github.com/monishsoundarraj/monishsoundarraj/blob/output/github-contribution-grid-snake.svg)
 </div>

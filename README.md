@@ -115,9 +115,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" alt="Monish Soundar Raj github stats" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=monishsoundarraj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
 

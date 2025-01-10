@@ -35,6 +35,21 @@
 
 </div>
 
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        - 🔭 Currently working on High-Performance Computing and Computer Vision Research
+        - 🌱 Learning Synthetic Data and State Space Models. 
+        - 👯 Open to collaborate on HPC & CV Projects
+        - 🎓 Undergrad Student at UNC Charlotte
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🚀 Some Previous Projects
 
 <div align="center" style="margin-top: 20px;">
@@ -107,14 +122,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishsoundarraj&layout=compact&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" alt="Monish Soundar Raj github stats" /> 
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=monishsoundarraj&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50" alt="Monish Soundar Raj github stats" />
 </div>
 
 ---
+
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%"/>
+</div>
 
 <div align="center">
   

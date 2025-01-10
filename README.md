@@ -37,17 +37,11 @@
 
 ## 🎯 Current Focus
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        - 🔭 Currently working on High-Performance Computing and Computer Vision Research
-        - 🌱 Learning Synthetic Data and State Space Models. 
-        - 👯 Open to collaborate on HPC & CV Projects
-        - 🎓 Undergrad Student at UNC Charlotte
-      </td>
-    </tr>
-  </table>
+<div style="margin-left: 40px">
+  <p>- 🔭 Currently working on High-Performance Computing and Computer Vision Research</p>
+  <p>- 🌱 Learning Synthetic Data and State Space Models.</p>
+  <p>- 👯 Open to collaborate on HPC & CV Projects</p>
+  <p>- 🎓 Undergrad Student at UNC Charlotte</p>
 </div>
 
 ## 🚀 Some Previous Projects
@@ -139,4 +133,5 @@
 
 </div>
 
+<img width="100%" height="50" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 

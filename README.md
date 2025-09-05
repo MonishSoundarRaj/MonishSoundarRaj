@@ -38,10 +38,10 @@
 ## 🎯 Current Focus
 
 <div style="margin-left: 40px">
-  <p>- 🔭 Currently working on High-Performance Computing and Computer Vision Research</p>
+  <p>- 🔭 Currently working on Computer Vision Research</p>
   <p>- 🌱 Learning Synthetic Data and State Space Models.</p>
-  <p>- 👯 Open to collaborate on HPC & CV Projects</p>
-  <p>- 🎓 Undergrad Student at UNC Charlotte</p>
+  <p>- 👯 Open to collaborate on Computer Vision Projects</p>
+  <p>- 🎓 Grad Student at UNC Chapel Hill</p>
 </div>
 
 ## 🚀 Some Previous Projects

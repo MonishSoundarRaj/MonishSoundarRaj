@@ -1,4 +1,4 @@
-
+MonishSoundarRaj-readme-banner.png
 ```
           $$\   $$\           $$\ $$\           $$\       $$\   $$\ $$\                             $$\                     
           $$ |  $$ |          $$ |$$ |          $$ |      $$$\  $$ |\__|                            $$ |                    
@@ -24,7 +24,7 @@
                                                              \______/     
 ```
 <div align="center">
-![MonishSoundarRaj's GitHub Banner](https://raw.githubusercontent.com/MonishSoundarRaj/MonishSoundarRaj/main/banner.png)
+![MonishSoundarRaj's GitHub Banner](MonishSoundarRaj-readme-banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Monish+Soundar+Raj;Research+%40+SAIL+Lab+UNC;Computer+Science+Grad+Student)](https://git.io/typing-svg)
 

@@ -1,4 +1,4 @@
-![MonishSoundarRaj's GitHub Banner](MonishSoundarRaj-readme-banner.png)
+
 ```
           $$\   $$\           $$\ $$\           $$\       $$\   $$\ $$\                             $$\                     
           $$ |  $$ |          $$ |$$ |          $$ |      $$$\  $$ |\__|                            $$ |                    
